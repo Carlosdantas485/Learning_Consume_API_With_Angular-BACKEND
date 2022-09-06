@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Macboock",
+      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v1006795484348763599/products/216681.00-macbook-air-2020-mgn63bz-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
+      "price": -1234
+    },
+    {
+      "id": 3,
+      "name": "Ipad",
+      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v1241423504693820270/products/219319.00-apple-ipad-9-geracao-a13bionic-wifi-64gb-cinza-espacial-mk2k3bz-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
+      "price": 1234
+    },
+    {
+      "id": 4,
+      "name": "Macboock",
+      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v1006795484348763599/products/216681.00-macbook-air-2020-mgn63bz-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
+      "price": 1234
+    },
+    {
+      "name": "teste",
+      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v1006795484348763599/products/216681.00-macbook-air-2020-mgn63bz-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
+      "price": "-12",
+      "id": 5
+    },
+    {
+      "name": "Iphone",
+      "price": "50000",
+      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v5758673239502908668/products/215989.00-iphone-11-apple-preto-mhda3br-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userName": "carlos",
+      "password": "carlos@carlos",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
+      "balance": 1000
+    },
+    {
+      "id": 2,
+      "userName": "carlos",
+      "password": "carlos@carlos",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
+      "balance": 1000
+    },
+    {
+      "id": 3,
+      "userName": "carlos",
+      "password": "carlos@carlos",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
+      "balance": 1000
+    },
+    {
+      "id": 4,
+      "userName": "carlos",
+      "password": "carlos@carlos",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
+      "balance": 1000
+    },
+    {
+      "id": 5,
+      "userName": "carlos",
+      "password": "carlos@carlos",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
+      "balance": 1000
+    },
+    {
+      "id": 6,
+      "userName": "carlos",
+      "password": "carlos@carlos",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
+      "balance": 1000
+    },
+    {
+      "id": 7,
+      "userName": "carlos",
+      "password": "carlos@carlos",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
+      "balance": 1000
+    },
+    {
+      "id": 8,
+      "userName": "carlos",
+      "password": "carlos@carlos",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
+      "balance": 1000
+    },
+    {
+      "id": 9,
+      "userName": "carlos",
+      "password": "carlos@carlos",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
+      "balance": 1000
+    },
+    {
+      "id": 10,
+      "userName": "carlos",
+      "password": "carlos@carlos",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
+      "balance": 1000
+    },
+    {
+      "id": 11,
+      "userName": "carlos",
+      "password": "carlos@carlos",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
+      "balance": 1000
+    },
+    {
+      "id": 10,
+      "userName": "carlos",
+      "password": "carlos@carlos",
+      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
+      "balance": 1000
+    }
+  ]
+}
