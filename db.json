@@ -1,120 +1,59 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Macboock",
+      "name": "Apple MacBook Air (M2 da Apple, com 8 GPU, 8GB RAM, 256GB SSD) - Prateado",
+      "price": "15000",
       "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v1006795484348763599/products/216681.00-macbook-air-2020-mgn63bz-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
-      "price": -1234
+      "id": 1
     },
     {
-      "id": 3,
-      "name": "Ipad",
-      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v1241423504693820270/products/219319.00-apple-ipad-9-geracao-a13bionic-wifi-64gb-cinza-espacial-mk2k3bz-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
-      "price": 1234
+      "name": "Apple iPhone 13 Pro (128GB) - Preto",
+      "price": "5000",
+      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v3475483175970887300/products/220842.00-apple-iphone-13-128gb-meianoite-mlpf3br-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
+      "id": 2
     },
     {
-      "id": 4,
-      "name": "Macboock",
-      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v1006795484348763599/products/216681.00-macbook-air-2020-mgn63bz-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
-      "price": 1234
+      "name": "Apple Watch Series 7 (GPS + Cellular, 41mm) - Caixa de Alumínio Meia-noite - Pulseira esportiva meia-noite",
+      "price": "4900",
+      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v8108860203131145144/products/212724.00-apple-watch-s5-cell-nike-44-cinza-espacial-mx3f2bz-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
+      "id": 3
     },
     {
-      "name": "teste",
-      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v1006795484348763599/products/216681.00-macbook-air-2020-mgn63bz-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
-      "price": "-12",
+      "name": "Apple iPad mini (6ª geração) A15 Bionic (8,3\", Wi-Fi + Cellular, 64GB) - Rosa",
+      "price": "6000",
+      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v1697769435042161665/products/219347.00-apple-ipad-mini-6-geracao-a15bionic-wifi-64gb-cinza-espacial-mk7m3bz-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
+      "id": 4
+    },
+    {
+      "name": "Apple AirPods (2ª geração) com Estojo de Recarga Lightning",
+      "price": "1200",
+      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v4656104805788772414/products/211567.00-fone-ouvido-apple-airpods-mv7n2be-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
       "id": 5
     },
     {
-      "name": "Iphone",
-      "price": "50000",
-      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v5758673239502908668/products/215989.00-iphone-11-apple-preto-mhda3br-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
+      "name": "Apple TV 4K (32 GB) - Siri Remote",
+      "price": "700",
+      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v6560152804683961077/products/218501.00-apple-tv-4k-64-gb-siri-remote-mxh02bz-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
       "id": 6
+    },
+    {
+      "name": "Apple Mac Studio (M1 Max da Apple, CPU de 10 núcleos e GPU de 24 núcleos, 32GB RAM, 512 GB SSD) - Prateado",
+      "price": "30000",
+      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v6989655941894029108/products/221032.00-apple-mac-studio-m1-max-da-apple-cpu-de-10-nucleos-e-gpu-de-24-nucleos-32gb-ram-512-gb-ssd-prateado-mjmv3bz.jpg&height=470&width=470&height=470&width=470&quality=0.8",
+      "id": 7
+    },
+    {
+      "name": "Carlos",
+      "price": "50000",
+      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v1006795484348763599/products/216681.00-macbook-air-2020-mgn63bz-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
+      "id": 8
+    },
+    {
+      "name": "Carlos",
+      "price": "50000",
+      "url": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v1006795484348763599/products/216681.00-macbook-air-2020-mgn63bz-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
+      "id": 9
     }
   ],
-  "users": [
-    {
-      "id": 1,
-      "userName": "carlos",
-      "password": "carlos@carlos",
-      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
-      "balance": 1000
-    },
-    {
-      "id": 2,
-      "userName": "carlos",
-      "password": "carlos@carlos",
-      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
-      "balance": 1000
-    },
-    {
-      "id": 3,
-      "userName": "carlos",
-      "password": "carlos@carlos",
-      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
-      "balance": 1000
-    },
-    {
-      "id": 4,
-      "userName": "carlos",
-      "password": "carlos@carlos",
-      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
-      "balance": 1000
-    },
-    {
-      "id": 5,
-      "userName": "carlos",
-      "password": "carlos@carlos",
-      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
-      "balance": 1000
-    },
-    {
-      "id": 6,
-      "userName": "carlos",
-      "password": "carlos@carlos",
-      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
-      "balance": 1000
-    },
-    {
-      "id": 7,
-      "userName": "carlos",
-      "password": "carlos@carlos",
-      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
-      "balance": 1000
-    },
-    {
-      "id": 8,
-      "userName": "carlos",
-      "password": "carlos@carlos",
-      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
-      "balance": 1000
-    },
-    {
-      "id": 9,
-      "userName": "carlos",
-      "password": "carlos@carlos",
-      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
-      "balance": 1000
-    },
-    {
-      "id": 10,
-      "userName": "carlos",
-      "password": "carlos@carlos",
-      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
-      "balance": 1000
-    },
-    {
-      "id": 11,
-      "userName": "carlos",
-      "password": "carlos@carlos",
-      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
-      "balance": 1000
-    },
-    {
-      "id": 10,
-      "userName": "carlos",
-      "password": "carlos@carlos",
-      "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba3b8ca-9c4f-4939-a58d-b0e6f32d47e6-profile_image-300x300.png",
-      "balance": 1000
-    }
-  ]
+  "users": []
 }
